@@ -160,7 +160,6 @@ main {
 }
 
 .contact small p {
-    text-align: left;
     padding: 40px 20px;
 }
 
@@ -168,9 +167,6 @@ main {
 
 
 @media only screen and (max-width: 610px) {
-    .contact small p {
-        text-align: center;
-    }
 
     .logoNavContainer {
         flex-direction: column;
